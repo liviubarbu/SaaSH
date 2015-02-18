@@ -1,0 +1,48 @@
+
+.popUpTitle {
+    background-color: #000000;
+    height: 40px;
+    width: 100%;
+}
+
+.popUpTitle img {
+    float: right;
+    margin-right: 2px;
+    margin-top: 5px;
+}
+
+.data {
+    background-color: #FFFFFF;
+    height: auto;
+    overflow: hidden;
+	font-size: 14px;
+    padding: 25px 25px 50px;
+    width: auto;
+}
+
+.buttons li {
+    cursor: pointer;
+    float: left;
+    height: 29px;
+    margin-right: 15px;
+    width: 134px;
+}
+
+span.button {
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 8px 25px;
+    text-align: center;
+}
+
+.popUpDisplay {
+    display: none;
+    position: absolute;
+    width: 440px;
+	height: 300px;
+    width: 440px;
+    left: 250px;
+    z-index: 1001;
+}

@@ -1,0 +1,18 @@
+[17-Feb-2015 12:15:46 Europe/Bucharest] PHP Parse error:  syntax error, unexpected T_ELSE in /home/videocli/public_html/saas/searchresults.php on line 31
+[17-Feb-2015 12:16:33 Europe/Bucharest] PHP Parse error:  syntax error, unexpected T_ELSE in /home/videocli/public_html/saas/searchresults.php on line 31
+[17-Feb-2015 12:16:44 Europe/Bucharest] PHP Notice:  Undefined variable: row in /home/videocli/public_html/saas/searchresults.php on line 16
+[17-Feb-2015 12:18:04 Europe/Bucharest] PHP Notice:  Undefined variable: row in /home/videocli/public_html/saas/searchresults.php on line 16
+[17-Feb-2015 12:19:08 Europe/Bucharest] PHP Notice:  Undefined variable: row in /home/videocli/public_html/saas/searchresults.php on line 16
+[17-Feb-2015 14:54:06 Europe/Bucharest] PHP Parse error:  syntax error, unexpected T_ELSE in /home/videocli/public_html/saas/searchresults.php on line 24
+[17-Feb-2015 15:02:15 Europe/Bucharest] PHP Parse error:  syntax error, unexpected T_ELSE in /home/videocli/public_html/saas/searchresults.php on line 21
+[17-Feb-2015 15:03:52 Europe/Bucharest] PHP Parse error:  syntax error, unexpected T_ELSE in /home/videocli/public_html/saas/searchresults.php on line 21
+[17-Feb-2015 15:03:53 Europe/Bucharest] PHP Parse error:  syntax error, unexpected T_ELSE in /home/videocli/public_html/saas/searchresults.php on line 21
+[17-Feb-2015 15:03:59 Europe/Bucharest] PHP Parse error:  syntax error, unexpected T_ELSE in /home/videocli/public_html/saas/searchresults.php on line 21
+[17-Feb-2015 15:04:20 Europe/Bucharest] PHP Parse error:  syntax error, unexpected T_ELSE in /home/videocli/public_html/saas/searchresults.php on line 21
+[17-Feb-2015 15:04:32 Europe/Bucharest] PHP Parse error:  syntax error, unexpected T_ELSE in /home/videocli/public_html/saas/searchresults.php on line 21
+[17-Feb-2015 15:04:41 Europe/Bucharest] PHP Parse error:  syntax error, unexpected T_ELSE in /home/videocli/public_html/saas/searchresults.php on line 21
+[17-Feb-2015 15:05:18 Europe/Bucharest] PHP Parse error:  syntax error, unexpected T_ELSE in /home/videocli/public_html/saas/searchresults.php on line 21
+[17-Feb-2015 15:05:55 Europe/Bucharest] PHP Parse error:  syntax error, unexpected T_ELSE in /home/videocli/public_html/saas/searchresults.php on line 21
+[17-Feb-2015 15:08:05 Europe/Bucharest] PHP Parse error:  syntax error, unexpected T_ELSE in /home/videocli/public_html/saas/searchresults.php on line 21
+[17-Feb-2015 15:13:02 Europe/Bucharest] PHP Parse error:  syntax error, unexpected T_ELSE in /home/videocli/public_html/saas/searchresults.php on line 21
+[17-Feb-2015 15:15:05 Europe/Bucharest] PHP Parse error:  syntax error, unexpected T_ELSE in /home/videocli/public_html/saas/searchresults.php on line 21
